@@ -1,4 +1,4 @@
-# spam-classifier
+# Spam-classifier
 📌 Tech Stack: Python, Scikit-Learn, Pandas, NLTK, Flask, Heroku
 
 Overview
