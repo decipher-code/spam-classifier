@@ -12,38 +12,8 @@ Features:
 
 ✔ Deployed on Heroku for online use
 
-How to Use
-1️⃣ Clone the repo:
 
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/spam-classifier.git
-cd spam-classifier
 
-2️⃣ Install dependencies:
 
-sh
-Copy
-Edit
-pip install -r requirements.txt
 
-3️⃣ Run the Flask app:
 
-sh
-Copy
-Edit
-python app.py
-
-Dataset Used
-
-[Link to dataset (if applicable)]
-
-Preprocessed using NLTK (stopword removal, stemming)
-
-Live Demo (if applicable)
-
-🔗 Heroku Deployment
-
-Contributors
-👤 Your Name
